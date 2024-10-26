@@ -1,0 +1,20 @@
+module register(
+			clk,
+			rst,
+			en,				
+			d,				
+			q				
+    );
+    input clk,rst,en;
+    input wire[15:0]d;
+    output reg[15:0]q;
+   always@(/* please complete the code here*/)
+     if(rst==0)
+// please complete the code here 
+      
+     else
+       begin
+// please complete the code here 
+         
+       end
+endmodule

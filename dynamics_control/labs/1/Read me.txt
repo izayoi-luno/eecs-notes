@@ -1,0 +1,2 @@
+The lab sheet "Lab_1_workspace.pdf" is a print out of the matlab livescript.
+For your labs, run the matlab livescript "Lab_1_workspace.mlx"
